@@ -1,2 +1,2 @@
-# cats_and_rats
-VGDC fall game jam 2024 cats and rats
+# rats_and_cats
+VGDC fall game jam 2024 rats and cats
